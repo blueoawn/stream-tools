@@ -1,0 +1,2 @@
+# obspython is built into OBS Studio and cannot be installed via pip
+# This script must be run inside OBS Studio (Tools → Scripts)
