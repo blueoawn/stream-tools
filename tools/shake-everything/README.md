@@ -53,8 +53,6 @@ A fun OBS Studio script that shakes all scene items in your current scene with a
 4. Navigate to and select `main.py` from this repository
 5. The script should now appear in the list and load successfully
 
-![Script Loaded](images/script-loaded.png)
-
 ## Usage
 
 ### Configure the Effect
