@@ -33,6 +33,11 @@ ENV/
 *.env
 !.env.example
 
+# OAuth tokens (keep these secret!)
+.oauth_tokens.json
+*oauth_tokens.json
+tokens*
+
 # IDE
 .vscode/
 .idea/

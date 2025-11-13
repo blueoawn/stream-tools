@@ -1,0 +1,3 @@
+[submodule "chat-games"]
+	path = chat-games
+	url = ./chat-games/
